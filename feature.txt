@@ -1,1 +1,2 @@
 I LEARNED ABOUT VERSION CONTROL USING GIT AND GITHUB 
+I also learned how to merge two branches 
